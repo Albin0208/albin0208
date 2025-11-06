@@ -10,10 +10,6 @@ Explore some of my projects that I have been working on:
 
 Feel free to explore these repositories and provide feedback or suggestions. I'm always eager to learn and collaborate on exciting projects.
 
-The below project is currently on pause since I am finishing up my studies.
-
-I'm currently working on a [Hospital Management system](https://github.com/Albin0208/HospitalManagementSystem) in C# which exposes services to the user using a API which I then plan on connection multiple frontends to. 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albin0208&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&exclude_repo=Traningsapp,webbserverprogrammering-1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Albin0208/albin0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
